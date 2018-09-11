@@ -1,0 +1,7 @@
+                   
+                            MENU
+
+1.Add Student.    2.Delete Student.    3.Edit Student.    4.Search Student. 
+5:List Student.   6.Quit
+
+Please Select MenuItem:
